@@ -1,0 +1,28 @@
+- title: Introduction
+  pages:
+    - path: /intro
+
+- title: Get Started
+  pages:
+    - title: Setting Up OS
+      path: /start/os/
+    - title: Windows
+      path: /start/os/windows
+    - title: Linux
+      path: /start/os/linux
+    - title: MacOS
+      path: /start/os/mac
+
+- title: Network & Firewall
+  pages:
+    - title: Firewall in General
+      path: /network/firewall-general
+    - title: Firewall in Enterprises
+      path: /network/firewall-enterprise
+
+- title: Software & Toolkits
+  pages:
+    - title: Sotware Intro
+      path: /software
+    - title: Software - Office
+      path: /software/office
